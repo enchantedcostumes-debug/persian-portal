@@ -1,0 +1,20 @@
+{
+  "total_words": 38,
+  "divine_words": 19,
+  "prime_words": 7,
+  "categories": {
+    "ancient": 38
+  },
+  "patterns": {
+    "prime": 7,
+    "composite": 30,
+    "prime_power": 1
+  },
+  "gematria_min": 7,
+  "gematria_max": 1411,
+  "alphabet_size": 0,
+  "language": "Old Persian",
+  "script": "Old Persian Cuneiform",
+  "era": "525-330 BCE",
+  "family": "Iranian"
+}
